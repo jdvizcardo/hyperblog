@@ -1,2 +1,4 @@
 Hola soy Juan Diego Vizcardo y estoy aprendiendo a usar Git.
 y mi edad es 21
+
+Y hoy hablaremos de su vida.
