@@ -1,5 +1,11 @@
 body{
+<<<<<<< HEAD
     color: pink;
     text-align: center;
     font-family: cursive;
+=======
+    color:blueviolet;
+    text-align: center;
+    font-family: Arial;
+>>>>>>> cabecera
 }
